@@ -1,5 +1,5 @@
 #include<iostream.h>
-#include<conio.h>
+using namespace std;
 void Selsort(int[],int);
 int main()
 {
