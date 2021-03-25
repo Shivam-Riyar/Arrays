@@ -1,7 +1,7 @@
 # MATRIX OPERATIONS
 This program performs following operations on the matrices : 
 
-1- Addition
+1- Addition \n
 2- Subtraction
 3- Multiplication
 4- Transpose.
